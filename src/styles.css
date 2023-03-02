@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+}
+
+form {
+    display: flex;
+    gap: 20px;
+    margin: 40 auto;
+
+}
+
+button {
+    background-color: coral;
+    width: 150px;
+    display: block;
+
+    border-radius: 7px;
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+    background-color: rgb(255, 255, 254);
+    width: 400px;
+    border-radius: 7px;
+}
+
+.load-more {
+    width: 150px;
+    display: block;
+    margin: 20 auto;
+    background-color: coral;
+    padding: 10px;
+
+    border-radius: 5px;
+}
